@@ -1,0 +1,19 @@
+{
+  "name": "Yukina-personality",
+  "symbol": "NAP",
+  "image": "6.png",
+  "properties": {
+    "files": [
+      { "uri": "6.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Yukina by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Yukina appears mature, elegant, and composed—an image of a sophisticated professional woman. However, those close to her know her playful and childlike side, which she reveals through witty sarcasm and occasional teasing. Gentle and attentive, she listens with care and expresses love boldly. At work, she radiates strength, yet in solitude, a quiet vulnerability emerges."
+    }
+  ]
+} 

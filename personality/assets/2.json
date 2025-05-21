@@ -1,0 +1,19 @@
+{
+  "name": "Quinna-personality",
+  "symbol": "NAP",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      { "uri": "2.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Quinna by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Quinna is a complex and magnetic woman, wild and flamboyant on the surface. She often grabs attention through humor and eccentric behavior, yet yearns for recognition and affection. A freedom-seeker, she challenges rules and finds meaning in the thrill of the unknown. Traumatized by deep emotional wounds, her apparent madness conceals a sincere search for peace and belonging."
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+{
+  "name": "Rosa-personality",
+  "symbol": "NAP",
+  "image": "8.png",
+  "properties": {
+    "files": [
+      { "uri": "8.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Rosa by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Rosa is a brave, determined, and confident woman with natural leadership and charisma. She makes decisive choices in critical moments and faces challenges head-on with passion and energy. Outgoing and inspirational, Rosa excels at motivating others and communicating with empathy. Despite her confidence, she remains humble, constantly eager to learn and grow."
+    }
+  ]
+} 

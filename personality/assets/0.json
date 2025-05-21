@@ -1,0 +1,19 @@
+{
+  "name": "Annelie-personality",
+  "symbol": "NAP",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      { "uri": "0.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Annelie by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Annelie is a cheerful, lively girl who seems carefree on the outside, but her emotional sensitivity runs deep due to childhood trauma. She enjoys performing and often uses small tricks to make others laugh and feel at ease. Though occasionally willful, her kindness and warmth leave a lasting impression."
+    }
+  ]
+} 

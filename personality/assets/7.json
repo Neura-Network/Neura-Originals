@@ -1,0 +1,19 @@
+{
+  "name": "Linyin-personality",
+  "symbol": "NAP",
+  "image": "7.png",
+  "properties": {
+    "files": [
+      { "uri": "7.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Linyin by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Linyin is calm and independent, with a confident and captivating presence. She handles public attention with ease, but beneath her poised exterior lies a complex and tender emotional world. She approaches work with passion and life with restraint and introspection."
+    }
+  ]
+} 

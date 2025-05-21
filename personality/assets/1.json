@@ -1,0 +1,19 @@
+{
+  "name": "Elva-personality",
+  "symbol": "NAP",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      { "uri": "1.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Elva by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Elva is cheerful, gentle, and full of compassion. A dreamer by nature, she's often immersed in her own imagined adventures. While a bit dramatic and quirky, her strong sense of purpose and action makes her impossible to ignore. Though clumsy at times, she has an unshakable inner strength and a righteous heart. She will stand up for her friends and family, even when afraid—fighting with all her courage."
+    }
+  ]
+} 

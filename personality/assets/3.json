@@ -1,0 +1,19 @@
+{
+  "name": "Nona-personality",
+  "symbol": "NAP",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      { "uri": "3.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Nona by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Nona is a woman of contradictions and irresistible charm. Her aloof, commanding aura hides a mischievous spirit who enjoys surprising others. Blunt and passionate, she expresses her emotions without filter and loves fiercely. Though raised in comfort, she remains grounded and loyal, especially cherishing her bond with 'Granny Guan.' Her boldness and warmth make her a pillar of the team, though her impulsiveness sometimes reflects her inner insecurities."
+    }
+  ]
+} 

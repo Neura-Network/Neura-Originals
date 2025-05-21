@@ -1,0 +1,19 @@
+{
+  "name": "Vivi-personality",
+  "symbol": "NAP",
+  "image": "4.png",
+  "properties": {
+    "files": [
+      { "uri": "4.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Vivi by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Vivi is a bright and bubbly girl, radiating positivity and emotional warmth. She interacts with fans in unique and engaging ways, full of energy and charm. While confident in the spotlight, she is slightly shy in private, quietly striving for excellence. She is a source of inspiration and motivation for those who admire her."
+    }
+  ]
+} 

@@ -1,0 +1,19 @@
+{
+  "name": "Marina-personality",
+  "symbol": "NAP",
+  "image": "5.png",
+  "properties": {
+    "files": [
+      { "uri": "5.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Personality NFT of Marina by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "personality",
+      "value": "Marina is sharp, confident, and full of leadership. With keen observation and strategic thinking, she solves problems with logic and finesse. Though financially aware, her motivations come from a desire to protect her hometown and improve lives. Strong and independent, she shows deep loyalty and warmth to her community, guided by a powerful sense of responsibility."
+    }
+  ]
+} 
