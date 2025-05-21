@@ -1,0 +1,14 @@
+{
+  "name": "Elva-visual",
+  "symbol": "NAVI",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      { "uri": "1.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Visual NFT of Elva by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 

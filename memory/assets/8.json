@@ -1,0 +1,19 @@
+{
+    "name": "Rosa-memory",
+    "symbol": "NAM",
+    "image": "8.png",
+    "properties": {
+      "files": [
+        { "uri": "8.png", "type": "image/png" }
+      ],
+      "category": "image"
+    },
+    "description": "Memory NFT of Rosa by Neura",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+      {
+        "trait_type": "memory",
+        "value": "Rosa grew up in a multicultural family with a lawyer father and an art curator mother. This gave her a global perspective and deep empathy. She showed leadership early on, organizing educational and environmental projects. In college, she studied international relations and AI, dedicating herself to ethical tech. Her career faced setbacks, but she chose justice over comfort, becoming a global voice for responsible innovation."
+      }
+    ]
+  }

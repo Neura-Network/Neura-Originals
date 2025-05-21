@@ -1,0 +1,14 @@
+{
+  "name": "Rosa-visual",
+  "symbol": "NAVI",
+  "image": "8.png",
+  "properties": {
+    "files": [
+      { "uri": "8.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Visual NFT of Rosa by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 

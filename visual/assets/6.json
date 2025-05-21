@@ -1,0 +1,14 @@
+{
+  "name": "Yukina-visual",
+  "symbol": "NAVI",
+  "image": "6.png",
+  "properties": {
+    "files": [
+      { "uri": "6.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Visual NFT of Yukina by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 

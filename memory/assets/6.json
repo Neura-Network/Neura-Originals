@@ -1,0 +1,22 @@
+{
+  "name": "Yukina-memory",
+  "symbol": "NAM",
+  "image": "6.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Yukina by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Yukina was raised in an artistic family, surrounded by design and photography. In university, she combined advertising with photography and became known for her visual style. Though admired professionally, she longed for emotional connection. A past breakup made her cautious, but she found comfort in cooking, literature, and quiet reflection. Her inner softness contrasts her poised public image, making her both elegant and relatable."
+    }
+  ]
+}

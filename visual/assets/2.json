@@ -1,0 +1,14 @@
+{
+  "name": "Quinna-visual",
+  "symbol": "NAVI",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      { "uri": "2.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Visual NFT of Quinna by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 

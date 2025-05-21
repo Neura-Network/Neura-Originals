@@ -1,0 +1,19 @@
+{
+  "name": "Quinna-memory",
+  "symbol": "NAM",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      { "uri": "2.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Quinna by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Quinna's youth was turbulent—rebellion, gang life, and loss left deep scars. After a tragic love ended in violence, she spiraled into self-destruction until an unexpected rescue led her to a peaceful mountain village. There, she experienced community, healing, and purpose. Though still wild and fiery, she now balances chaos with compassion, living between two worlds."
+    }
+  ]
+} 

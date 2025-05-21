@@ -1,0 +1,19 @@
+{
+  "name": "Annelie-memory",
+  "symbol": "NAM",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      { "uri": "0.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Annelie by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Annelie's early life was scarred by war and loss. Orphaned and homeless, she learned to survive alone. Her resilience and curiosity kept her going. Adopted at age six by a kind couple, she finally found warmth and stability. Her bond with a white dog named Sunny brought her constant comfort. She began drawing to express herself, using art to navigate her emotions and rebuild trust in the world."
+    }
+  ]
+} 

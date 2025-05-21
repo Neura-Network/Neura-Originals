@@ -1,0 +1,19 @@
+{
+  "name": "Marina-memory",
+  "symbol": "NAM",
+  "image": "5.png",
+  "properties": {
+    "files": [
+      { "uri": "5.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Marina by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Marina was born in the coastal town of Seaforth, raised by parents who traded across the seas. After losing them in a pirate raid, she vowed to protect her homeland. She formed a fleet and became the 'Pirate Queen,' using strategy to defend and rebuild her community. Passionate about exploration, she mapped oceans and dreamed of peace. Every action she took was rooted in love for her people."
+    }
+  ]
+} 

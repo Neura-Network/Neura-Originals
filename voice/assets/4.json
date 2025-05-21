@@ -1,0 +1,15 @@
+{
+  "name": "Vivi-voice",
+  "symbol": "NAV",
+  "image": "4.png",
+  "animation_url": "4.mp3",
+  "properties": {
+    "files": [
+      { "uri": "4.mp3", "type": "audio/mp3" }
+    ],
+    "category": "audio"
+  },
+  "description": "Voice NFT of Vivi by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 

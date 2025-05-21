@@ -1,0 +1,19 @@
+{
+  "name": "Vivi-memory",
+  "symbol": "NAM",
+  "image": "4.png",
+  "properties": {
+    "files": [
+      { "uri": "4.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Vivi by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Vivi grew up in the vibrant city of Yokohama, where her passion for music and dance shone from a young age. Supported by her loving parents, she rose from school performances to national talent shows, earning fame for her energy and charm. After debuting in a girl group, she became a holographic artist, leading innovation in virtual performance. Her path is one of fearless creativity and heartfelt connection with fans."
+    }
+  ]
+} 

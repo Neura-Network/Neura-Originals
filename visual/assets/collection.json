@@ -1,0 +1,17 @@
+{
+  "name": "Neura AI agent visual",
+  "symbol": "NAVI",
+  "image": "collection.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "description": "A collection of intelligent agents with unique visuals",
+  "seller_fee_basis_points": 0,
+    "attributes": []
+}

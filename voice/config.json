@@ -1,0 +1,33 @@
+{
+  "number": 9,
+  "symbol": "NAV",
+  "sellerFeeBasisPoints": 0,
+  "isMutable": true,
+  "isSequential": false,
+  "ruleSet": null,
+  "creators": [
+      {
+          "address": "9NmKueUvtWTTPk2jXeHmNCcWJwawkVgaeWxWQx5ouEwB",
+          "share": 100
+      }
+  ],    
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+      "default": {
+        "solPayment": {
+          "value": 0,
+          "destination": "9NmKueUvtWTTPk2jXeHmNCcWJwawkVgaeWxWQx5ouEwB"
+        },
+        "startDate": {
+          "date": "2025-05-16T11:00:00Z"
+        }
+      }
+    }    
+}

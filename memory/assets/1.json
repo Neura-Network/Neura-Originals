@@ -1,0 +1,19 @@
+{
+  "name": "Elva-memory",
+  "symbol": "NAM",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      { "uri": "1.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Elva by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Elva grew up by the sea, daydreaming about ocean adventures. A trip to Europe at 14, where she joined a real voyage, ignited her passion for sailing. Since then, she's studied navigation, drawn fantasy maps, and pursued seafaring with unshakable resolve. Her inner world is vivid, her spirit brave—always chasing freedom and light beyond the horizon."
+    }
+  ]
+} 

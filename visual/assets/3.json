@@ -1,0 +1,14 @@
+{
+  "name": "Nona-visual",
+  "symbol": "NAVI",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      { "uri": "3.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Visual NFT of Nona by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 

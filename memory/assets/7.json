@@ -1,0 +1,19 @@
+{
+  "name": "Linyin-memory",
+  "symbol": "NAM",
+  "image": "7.png",
+  "properties": {
+    "files": [
+      { "uri": "7.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Linyin by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Linyin's life was shaped by her humble background and artistic dreams. Despite family doubts, she pursued acting, balancing study and work to support herself. Her career rose from minor roles to acclaim, especially after channeling personal heartbreak into her performances. As her fame grew, she became a cultural advocate, launching charity initiatives to promote art education. Her emotional complexity gives her performances rare depth."
+    }
+  ]
+} 

@@ -1,0 +1,15 @@
+{
+  "name": "Annelie-voice",
+  "symbol": "NAV",
+  "image": "0.png",
+  "animation_url": "0.mp3",
+  "properties": {
+    "files": [
+      { "uri": "0.mp3", "type": "audio/mp3" }
+    ],
+    "category": "audio"
+  },
+  "description": "Voice NFT of Annelie by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+}

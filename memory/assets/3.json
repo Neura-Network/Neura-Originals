@@ -1,0 +1,19 @@
+{
+  "name": "Nona-memory",
+  "symbol": "NAM",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      { "uri": "3.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Memory NFT of Nona by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "memory",
+      "value": "Raised in a wealthy but emotionally distant home, Nona found comfort only in her caretaker, Granny Guan. Her childhood shaped her independence and boldness. In college, she excelled in business and later launched a successful fashion brand blending racing culture with urban flair. Despite her intense emotions, she values loyalty deeply, and her duality of fierceness and warmth makes her unforgettable."
+    }
+  ]
+} 

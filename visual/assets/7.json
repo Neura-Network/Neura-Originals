@@ -1,0 +1,14 @@
+{
+  "name": "Linyin-visual",
+  "symbol": "NAVI",
+  "image": "7.png",
+  "properties": {
+    "files": [
+      { "uri": "7.png", "type": "image/png" }
+    ],
+    "category": "image"
+  },
+  "description": "Visual NFT of Linyin by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 

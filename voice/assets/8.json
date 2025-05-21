@@ -1,0 +1,15 @@
+{
+  "name": "Rosa-voice",
+  "symbol": "NAV",
+  "image": "8.png",
+  "animation_url": "8.mp3",
+  "properties": {
+    "files": [
+      { "uri": "8.mp3", "type": "audio/mp3" }
+    ],
+    "category": "audio"
+  },
+  "description": "Voice NFT of Rosa by Neura",
+  "seller_fee_basis_points": 0,
+  "attributes": []
+} 
