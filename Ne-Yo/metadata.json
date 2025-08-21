@@ -1,0 +1,18 @@
+{
+  "name": "Neura NE-YO Badge",
+  "symbol": "Neura NE-YO Badge",
+  "description": "Neura NE-YO Badge",
+  "image": "https://github.com/Neura-Network/Neura-Originals/blob/main/Ne-Yo/image.png",
+  "animation_url": "https://github.com/Neura-Network/Neura-Originals/blob/main/Ne-Yo/fans.mp4",
+  "attributes": [
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/Neura-Network/Neura-Originals/blob/main/Ne-Yo/fans.mp4", 
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video"
+  }
+} 
