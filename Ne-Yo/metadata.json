@@ -2,14 +2,14 @@
   "name": "Neura NE-YO Badge",
   "symbol": "NNB",
   "description": "Neura NE-YO Badge",
-  "image": "https://github.com/Neura-Network/Neura-Originals/blob/main/Ne-Yo/image.png",
-  "animation_url": "https://github.com/Neura-Network/Neura-Originals/blob/main/Ne-Yo/fans.mp4",
+  "image": "https://raw.githubusercontent.com/Neura-Network/Neura-Originals/refs/heads/main/Ne-Yo/image.png",
+  "animation_url": "https://raw.githubusercontent.com/Neura-Network/Neura-Originals/refs/heads/main/Ne-Yo/fans.mp4",
   "attributes": [
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/Neura-Network/Neura-Originals/blob/main/Ne-Yo/fans.mp4", 
+        "uri": "https://raw.githubusercontent.com/Neura-Network/Neura-Originals/refs/heads/main/Ne-Yo/fans.mp4", 
         "type": "video/mp4"
       }
     ],
